@@ -1,0 +1,8 @@
+/* styles.css */
+
+.new-site {
+  position: fixed;
+  top: 10px;        /* Adjust vertical distance from top */
+  right: 10px;       /* Adjust horizontal distance from right */
+  z-index: 1000;     /* Ensures it stays above other content */
+}   
