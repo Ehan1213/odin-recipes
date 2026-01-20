@@ -12,3 +12,46 @@ body {
   right: 10px;
   z-index: 1000;
 } 
+
+.example-img {
+  display: block;
+  margin:auto;
+
+}
+
+.recipe-description {
+  text-align: center;
+  margin-bottom: 64px;
+
+}
+
+.card {
+  width: 800px;
+  background: #fff;
+  margin: 16px auto;
+  padding: 8px;
+}
+
+
+.ingredients-directions {
+  border: solid rgb(0,0,0) 4px;
+
+}
+
+
+.ingredients {
+  margin: 4px;
+
+}
+
+.directions {
+  margin: 4px;
+  margin-top: 32px;
+  
+}
+
+.ingredients li,
+.directions li {
+  margin: 6px;
+  
+}
